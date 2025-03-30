@@ -31,7 +31,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "6d29ba000d9fe5f8a65a252c66a69d84
 "assets/assets/images/markt_service.png": "87b3f53b484a4509ca7ae54c18afe664",
 "assets/assets/images/soft_service.png": "ef2fe26d9f35117cf37735e5464121b7",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
-"assets/fonts/MaterialIcons-Regular.otf": "5a92869bb7c3b34356c00fef3911ac17",
+"assets/fonts/MaterialIcons-Regular.otf": "e638f1ab99e9bfd285fd3042d37b719d",
 "assets/NOTICES": "fc0af70a9434a100970d0148f4373647",
 "assets/packages/chat_composer/images/delete_icon.png": "caa15c135fdebfd5bfcd5f1e96268bf5",
 "assets/packages/country_state_city_picker/lib/assets/country.json": "11b8187fd184a2d648d6b5be8c5e9908",
@@ -67,9 +67,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "6d29ba000d9fe5f8a65a252c66a69d84
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "58a16f1b91e3a8f780c2a4e562538aa1",
-"/": "58a16f1b91e3a8f780c2a4e562538aa1",
-"main.dart.js": "b0297a51f26fc4061607a66ec5e96162",
+"index.html": "ab1636ddbbbddfe5db48e21eabf4dffa",
+"/": "ab1636ddbbbddfe5db48e21eabf4dffa",
+"main.dart.js": "8c1034e62f1ab4fc158b1b99d5b53036",
 "manifest.json": "9cc4f414c25844c55e1f2fdfbfcfe83b",
 "version.json": "1b55b8b618d079f4e5c5c7a9c9de0023"};
 // The application shell files that are downloaded before a service worker can
